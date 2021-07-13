@@ -7,6 +7,8 @@
 {{- $title := partialCached "data/title" . .RelPermalink -}}
 <title>{{ $title }}</title>
 
+<link rel="icon" type="image/png" href="https://raw.githubusercontent.com/7WayneLee/7WayneLee-Hugo/master/assets/img/avatar.jpg"/>
+
 <link rel='canonical' href='{{ .Permalink }}'>
 
 {{- partial "head/style.html" . -}}
