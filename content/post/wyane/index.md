@@ -1,15 +1,24 @@
----
-title: Wyane
-description: 我是 Wyane
-date: 2021-09-09
-slug: test-chinese
-image: helena-hertz-wWZzXlDpMog-unsplash.jpg
-categories:
-    - Test
-    - 测试
---- 
++++
+author = "Wyane"
+title = "Wyane"
+date = "2021-03-11"
+description = "Wyane"
+tags = [
+    "markdown",
+    "css",
+    "html",
+    "themes",
+]
+categories = [
+    "themes",
+    "syntax",
+]
+series = ["Themes Guide"]
+aliases = ["migrate-from-jekyl"]
+image = "test.jpg"
++++
 
 Wyane
 ===
 
-![eee.png](helena-hertz-wWZzXlDpMog-unsplash.jpg)
+![eee.png](test.jpg)
