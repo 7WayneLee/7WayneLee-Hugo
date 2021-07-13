@@ -19,7 +19,10 @@ You can get in touch with me or follow me at the link below:
 * [CoolApk](http://www.coolapk.com/u/2067264)
 
 This is my blog,I will upload my life and coding practice here.
+
 I am christian,so maybe I will upload something about my faith.
+
 I hope you will like it.
+
 Thank you.
 
