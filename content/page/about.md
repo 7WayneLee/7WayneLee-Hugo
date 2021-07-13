@@ -1,27 +1,25 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
+title = "About me..."
+description = "A college student from Taiwan "
+date = "2021-07-12"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
-license = "CC BY-NC-ND"
-lastmod = "2020-10-09"
+author = "Wyane Lee"
+license = "Written by Wyane"
+lastmod = "2021-07-13"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+I am a college student studying at[Central South University (CSU)](https://www.csu.edu.cn/) I like programing.I also like and follow the development of the technology very much.In my free time,i like watching football game and listening music.My football home team is[Borussia Dortmund](https://zh.wikipedia.org/wiki/%E5%A4%9A%E7%89%B9%E8%92%99%E5%BE%B7%E8%B6%B3%E7%90%83%E4%BF%B1%E6%A8%82%E9%83%A8)
 
-Hugo makes use of a variety of open source projects including:
+You can get in touch with me or follow me at the link below: 
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+* [Github](https://github.com/7WayneLee)
+* [Telegram: @Daniel_474](https://t.me/Daniel_474)
+* [Instagram](https://www.instagram.com/invites/contact/?i=6cjzcf3srswo&utm_content=3t7ylf6)
+* [Steam](https://steamcommunity.com/profiles/76561198929479655/)
+* [CoolApk](http://www.coolapk.com/u/2067264)
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+This is my blog,I will upload my life and coding practice here.
+I am christian,so maybe I will upload something about my faith.
+I hope you will like it.
+Thank you.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
