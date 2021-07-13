@@ -2,8 +2,8 @@ baseurl = "https://7WayneLee.github.io/"
 languageCode = "en-us"
 theme = "hugo-theme-stack"
 paginate = 5
-title = "Example Site"
-disqusShortname = "hugo-theme-stack"            # Change it to your Disqus shortname before using
+title = "Daniel's Blog"
+disqusShortname = "7WayneLee"            # Change it to your Disqus shortname before using
 DefaultContentLanguage = "en"                   # Theme i18n support
 
 [permalinks]
@@ -21,14 +21,14 @@ DefaultContentLanguage = "en"                   # Theme i18n support
         
     [params.sidebar]
         emoji = "🍥"
-        avatar = "img/avatar.png"
-        subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        avatar = "img/avatar.jpg"
+        subtitle = "There is no such thing as wrong timing if you're meant to be."
         
     [params.article]
         math = false
         [params.article.license]
             enabled = true 
-            default = "Licensed under CC BY-NC-SA 4.0"
+            default = "Written by Wyane"
             
     [params.comments]
         enabled = true
