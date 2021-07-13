@@ -8,7 +8,7 @@ license = "Written by Wyane"
 lastmod = "2021-07-13"
 +++
 
-I am a college student studying at[Central South University (CSU)](https://www.csu.edu.cn/) I like programing.I also like and follow the development of the technology very much.In my free time,i like watching football game and listening music.My football home team is[Borussia Dortmund](https://zh.wikipedia.org/wiki/%E5%A4%9A%E7%89%B9%E8%92%99%E5%BE%B7%E8%B6%B3%E7%90%83%E4%BF%B1%E6%A8%82%E9%83%A8)
+I am a college student studying at [Central South University (CSU)](https://www.csu.edu.cn/) I like programing.I also like and follow the development of the technology very much.In my free time,i like watching football game and listening music.My football home team is [Borussia Dortmund](https://zh.wikipedia.org/wiki/%E5%A4%9A%E7%89%B9%E8%92%99%E5%BE%B7%E8%B6%B3%E7%90%83%E4%BF%B1%E6%A8%82%E9%83%A8)
 
 You can get in touch with me or follow me at the link below: 
 
