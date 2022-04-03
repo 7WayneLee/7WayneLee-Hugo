@@ -42,10 +42,8 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
-        enabled: true
-        local: true
-        src: img/favicon.ico
+    favicon: assets/img/favicon.ico
+
     footer:
         since: 2021
         customText:
