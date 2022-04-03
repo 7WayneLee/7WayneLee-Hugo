@@ -170,7 +170,7 @@ lastmod="2022-04-02"
   
   > 如果你想使用其他的主題，可以 git clone 其他的主題使用 
   
-  *2.打開 `username-hugo` 文件夾，將路徑下 `themes/hugo-theme-stack `的文件 `config.yaml` 復制到 `username-hugo` 文件夾中。然後刪除原本有的 `config.toml` 文件*
+  *2.打開 `username-hugo` 文件夾，將路徑下 `themes/hugo-theme-stack `的文件 `config.yaml` 和 文件夾 `layouts` 復制到 `username-hugo` 文件夾中。然後刪除原本有的 `config.toml` 文件*
   
   *3.將 `themes/hugo-theme-stack/exampleSite` 路徑下的 `content` 文件夾復制到 `username-hugo` 文件夾中*
   

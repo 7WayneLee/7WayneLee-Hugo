@@ -13,7 +13,7 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 image = "background.jpg"
 license="Written by Daniel"
-lastmod="2022-04-02"
+lastmod="2022-04-03"
 
 +++
 
@@ -52,7 +52,7 @@ Google Voice 接收各種簡訊是完全免費的;接聽或播出美國，加拿
 
 如果你不希望此號碼被 Google 回收，那麼我推薦你將此 Google Voice 號碼轉移到個人 Gmail 下。
 
-### 第一步
+### 賬戶驗證
 如果你不在美國境內，那麼首先你需要準備一個**美國原生**節點，即一個**美國原生IP的節點**。如果沒有，那麼轉移過程無法完成。
 
 [檢測是否爲原生IP的方法](https://bgp.he.net/)
@@ -62,7 +62,7 @@ Google Voice 接收各種簡訊是完全免費的;接聽或播出美國，加拿
 如果你的個人帳號是第一次登錄此網站，Google Voice 會要求你通過他的一些協議，只要點通過就好。
 >這個隱私通過頁面只有在你使用美國原生節點接入時才會彈出，如果是其他節點的話可能會彈出**抱歉，你的國家不支持此服務**的字樣。但在你轉移完成後，再使用 Google Voice的服務是不限於美國節點的。
 
-### 第二步
+### 轉移步驟
 * 登錄上你所購買 Google Voice 所得到的帳號，進入到主界面，點擊左上角的 **三條槓** 按鈕;
 ![點擊點擊左上角的 三條槓 按鈕](1.jpg)
 
@@ -88,11 +88,11 @@ Google Voice 接收各種簡訊是完全免費的;接聽或播出美國，加拿
 >在2021年4月份後， Google 基本停止了其他的軟件撥打電話的功能
 >但如果只要收簡訊的話是可以在 Gmail 上收取
 
-Google Voice App 都只分別在Appstore和play store的美區，加拿大區上上架。
+Google Voice App 都只分別在 Appstore 和 play store 的美區，加拿大區上上架。
 
-如果是 Android 用戶，可以考慮下載apk進行安裝。
+如果是 Android 用戶，可以考慮下載 apk 進行安裝。
 
-如果是 ios 用戶，一定需要一個 ios 美區帳號才能下載安裝。
+如果是 iOS 用戶，一定需要一個 ios 美區帳號才能下載安裝。
 
 安裝完成後登錄 Google 賬戶，如果正常綁定了Google Voice 號碼，就已經可以使用了。
 
@@ -120,5 +120,33 @@ Google Voice App 都只分別在Appstore和play store的美區，加拿大區上
 
 ## 注意事項
 * Google Voice 號碼是可以注冊**大部分**App，包括 Telegram，Signal，Paypal等應用，但也有一些應用是無法直接注冊的，例如 Wechat。Wechat 只能用其他手機號碼注冊成功後，再更換綁定成 Google Voice 的號碼。
+
+  > 近期使用 Google Voice 的 Wechat 賬戶遭到了大規模封禁，所以請謹慎更改。
+
 * **一定不能**用 Google Voice 號碼再注冊 Google 賬戶，這樣的套娃操作可能會導致 Google 封號並回收此號碼
+
 * 最好頻繁使用 Google Voice ，防止 逾期後，Google 回收號碼。
+
+
+
+## 更新：新版 Google Voice Web 界面操作
+
+Google 於今年的 2 月份逐漸停止了對舊版 Google Voice 界面的支持。所以在之後需要通過新版界面進行轉移號碼等的操作。
+
+在進行轉移前，一定要記得先通過**賬戶驗證**。
+
+### 新版界面轉移步驟
+
+* 登陸 Google Voice 網站，點擊右上角的 `設置` 
+
+  ![點擊 齒輪 按鈕](10.png)
+
+* 下滑界面，點擊 `轉移號碼` 
+
+  ![轉移號碼](11.png)
+
+* 輸入你要轉移到的 Google Account 的郵箱地址，傳送轉移要求
+
+  ![輸入郵箱地址](12.png)
+
+* 再在 Google Voice 登陸接收號碼的 Google Account，進入設置，接受號碼轉移。這樣就完成號碼轉移了。
