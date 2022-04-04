@@ -73,7 +73,7 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname: wyanelee
+            shortname: 7waynelee
             apiUrl:
             apiKey:
             admin:
