@@ -22,19 +22,26 @@ lastmod="2022-04-02"
 ## Worship
 
 我來到祢寶座, 獻上我的禱告
+
 在這寧靜時刻, 我聽見祢的聲音
+
 因為祢的愛, 已經找到了我
+
 使我配得走進, 祢的同在裡
 
 在這安靜時刻, 祢聆聽我呼求
+
 享受在祢的榮耀, 聖潔中
 
 求祢仰起臉, 來光照我的心
+
 祢使我心, 充滿了快樂
+
 主啊祢是, 我全然信靠
+
 耶和華, 使我安然居住             
 
-​                                                  ---[《我安然居住》 約書亞樂團 Joshua Band
+​                                                  ---[ 約書亞樂團 Joshua Band《我安然居住》
  ](https://www.youtube.com/watch?v=kNOuWvdPgiA&ab_channel=%E7%B4%84%E6%9B%B8%E4%BA%9E%E6%A8%82%E5%9C%98JoshuaBand)
 
 ## found me.
