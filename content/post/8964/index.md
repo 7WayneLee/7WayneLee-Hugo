@@ -6,9 +6,10 @@ description = ""
 tags = [
     "8964",
     "Faith",
+    "politics",
 ]
 categories = [
-    "8964",
+    "Colorful",
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
