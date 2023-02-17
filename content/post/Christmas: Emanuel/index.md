@@ -7,7 +7,7 @@ tags = [
     "Faith",
 ]
 categories = [
-    "Life and Faith",
+    "Colorful",
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
